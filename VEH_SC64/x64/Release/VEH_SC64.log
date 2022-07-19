@@ -1,0 +1,21 @@
+﻿  VEH_SC64.cpp
+d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(24): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“DWORD64”
+  d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(24): note: 请考虑在格式字符串中使用“%lld”
+  d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(24): note: 请考虑在格式字符串中使用“%Id”
+  d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(24): note: 请考虑在格式字符串中使用“%I64d”
+d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(26): warning C4244: “参数”: 从“DWORD64”转换到“DWORD”，可能丢失数据
+d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(37): warning C4244: “参数”: 从“DWORD64”转换到“DWORD”，可能丢失数据
+d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(97): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“DWORD64”
+  d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(97): note: 请考虑在格式字符串中使用“%llx”
+  d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(97): note: 请考虑在格式字符串中使用“%Ix”
+  d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(97): note: 请考虑在格式字符串中使用“%I64x”
+d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(100): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“DWORD64”
+  d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(100): note: 请考虑在格式字符串中使用“%llx”
+  d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(100): note: 请考虑在格式字符串中使用“%Ix”
+  d:\vs_code\veh_sc\veh_sc64\veh_sc64.cpp(100): note: 请考虑在格式字符串中使用“%I64x”
+  正在生成代码
+  11 of 15 functions (73.3%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  VEH_SC64.vcxproj -> D:\vs_code\VEH_SC\x64\Release\VEH_SC64.exe

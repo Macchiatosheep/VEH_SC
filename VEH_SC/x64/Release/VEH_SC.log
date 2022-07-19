@@ -1,0 +1,13 @@
+﻿  VEH_SC.cpp
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(52): warning C4311: “类型强制转换”: 从“void (__cdecl *)(DWORD)”到“DWORD”的指针截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(52): warning C4302: “类型强制转换”: 从“void (__cdecl *)(DWORD)”到“DWORD”截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(52): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(52): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(76): warning C4311: “类型强制转换”: 从“LPVOID (__cdecl *)(LPVOID,SIZE_T,DWORD,DWORD)”到“DWORD”的指针截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(76): warning C4302: “类型强制转换”: 从“LPVOID (__cdecl *)(LPVOID,SIZE_T,DWORD,DWORD)”到“DWORD”截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(76): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(76): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(93): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(93): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+d:\vs_code\veh_sc\veh_sc\veh_sc.cpp(105): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(3837): note: 参见“_CONTEXT”的声明
